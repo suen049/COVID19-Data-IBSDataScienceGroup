@@ -1,108 +1,126 @@
 ,Country/Region,Deaths
-20,China,3097
-47,Italy,366
-43,Iran,194
-92,South Korea,50
-102,US,21
-32,France,19
-93,Spain,17
-44,Iraq,6
-48,Japan,6
-5,Australia,4
-38,Hong Kong,3
-66,Netherlands,3
-101,UK,3
-96,Switzerland,2
-98,Thailand,1
-28,Egypt,1
-76,Philippines,1
-3,Argentina,1
-84,San Marino,1
-97,Taiwan,1
-72,Pakistan,0
-73,Palestine,0
-71,Oman,0
-74,Paraguay,0
+27,China,3180
+62,Italy,1266
+58,Iran,514
+110,Spain,133
+44,France,79
+68,"Korea, South",66
+120,US,47
+64,Japan,19
+114,Switzerland,11
+85,Netherlands,10
+59,Iraq,9
+123,United Kingdom,8
+47,Germany,7
+33,Cruise Ship,7
+102,San Marino,5
+95,Philippines,5
+57,Indonesia,4
+14,Belgium,3
+71,Lebanon,3
+8,Australia,3
+56,India,2
+2,Algeria,2
+96,Poland,2
+40,Egypt,2
+5,Argentina,2
+60,Ireland,1
+1,Albania,1
+83,Morocco,1
+121,Ukraine,1
+48,Greece,1
+51,Guyana,1
+92,Panama,1
+20,Bulgaria,1
+112,Sudan,1
+113,Sweden,1
+115,Taiwan*,1
+116,Thailand,1
+10,Azerbaijan,1
+9,Austria,1
+24,Canada,1
+86,New Zealand,0
+87,Nigeria,0
+81,Monaco,0
+84,Nepal,0
+82,Mongolia,0
+80,Moldova,0
+79,Mexico,0
+78,Martinique,0
+77,Malta,0
+88,North Macedonia,0
+98,Qatar,0
+89,Norway,0
+105,Serbia,0
+122,United Arab Emirates,0
+119,Turkey,0
+118,Tunisia,0
+117,Togo,0
+111,Sri Lanka,0
+109,South Africa,0
+108,Slovenia,0
+107,Slovakia,0
+106,Singapore,0
+104,Senegal,0
+90,Oman,0
+103,Saudi Arabia,0
+101,Russia,0
+100,Romania,0
+99,Reunion,0
+75,Malaysia,0
+97,Portugal,0
+94,Peru,0
+93,Paraguay,0
+91,Pakistan,0
+76,Maldives,0
 0,Afghanistan,0
-70,Norway,0
-69,North Macedonia,0
-68,Nigeria,0
-67,New Zealand,0
-65,Nepal,0
-64,Morocco,0
-63,Monaco,0
-62,Moldova,0
-61,Mexico,0
-75,Peru,0
-82,Russia,0
-77,Poland,0
-78,Portugal,0
-105,Vatican City,0
-104,United Arab Emirates,0
-103,Ukraine,0
-100,Tunisia,0
-99,Togo,0
-95,Sweden,0
-94,Sri Lanka,0
-91,South Africa,0
-90,Slovenia,0
-89,Slovakia,0
-88,Singapore,0
-87,Serbia,0
-86,Senegal,0
-85,Saudi Arabia,0
-83,Saint Barthelemy,0
-59,Malta,0
-81,Romania,0
-80,Republic of Ireland,0
-79,Qatar,0
-60,Martinique,0
-53,Liechtenstein,0
-58,Maldives,0
-57,Malaysia,0
-25,Denmark,0
-24,Czech Republic,0
-23,Croatia,0
-22,Costa Rica,0
-21,Colombia,0
-19,Chile,0
-18,Canada,0
-17,Cameroon,0
-16,Cambodia,0
-15,Bulgaria,0
-14,Brazil,0
-13,Bosnia and Herzegovina,0
-12,Bhutan,0
-11,Belgium,0
-10,Belarus,0
-9,Bangladesh,0
-8,Bahrain,0
-7,Azerbaijan,0
-6,Austria,0
-4,Armenia,0
-2,Andorra,0
-26,Dominican Republic,0
-27,Ecuador,0
-29,Estonia,0
-45,Ireland,0
-56,Macau,0
-55,Luxembourg,0
-54,Lithuania,0
-1,Algeria,0
-52,Lebanon,0
-51,Latvia,0
-50,Kuwait,0
-49,Jordan,0
-46,Israel,0
-42,Indonesia,0
-30,Faroe Islands,0
-41,India,0
-40,Iceland,0
-39,Hungary,0
-37,Greece,0
-36,Gibraltar,0
-35,Germany,0
-34,Georgia,0
-33,French Guiana,0
-31,Finland,0
-106,Vietnam,0
+74,Luxembourg,0
+19,Brunei,0
+32,Croatia,0
+31,Cote d'Ivoire,0
+30,Costa Rica,0
+29,Congo (Kinshasa),0
+28,Colombia,0
+26,Chile,0
+25,Cayman Islands,0
+23,Cameroon,0
+22,Cambodia,0
+21,Burkina Faso,0
+18,Brazil,0
+73,Lithuania,0
+17,Bosnia and Herzegovina,0
+16,Bolivia,0
+15,Bhutan,0
+13,Belarus,0
+12,Bangladesh,0
+11,Bahrain,0
+7,Aruba,0
+6,Armenia,0
+4,Antigua and Barbuda,0
+3,Andorra,0
+34,Cuba,0
+35,Cyprus,0
+36,Czechia,0
+37,Denmark,0
+72,Liechtenstein,0
+70,Latvia,0
+69,Kuwait,0
+67,Kenya,0
+66,Kazakhstan,0
+65,Jordan,0
+63,Jamaica,0
+61,Israel,0
+55,Iceland,0
+54,Hungary,0
+53,Honduras,0
+52,Holy See,0
+50,Guinea,0
+49,Guadeloupe,0
+46,Georgia,0
+45,French Guiana,0
+43,Finland,0
+42,Ethiopia,0
+41,Estonia,0
+39,Ecuador,0
+38,Dominican Republic,0
+124,Vietnam,0
