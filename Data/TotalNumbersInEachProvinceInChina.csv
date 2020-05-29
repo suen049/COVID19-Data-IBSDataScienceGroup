@@ -1,34 +1,34 @@
 ,Province/State,Confirmed,Deaths,Recovered
-0,Hubei,68135,4512,63616
-1,Guangdong,1590,8,1579
-2,Henan,1276,22,1254
+0,Hubei,68135,4512,63617
+1,Guangdong,1592,8,1581
+2,Henan,1276,22,0
 3,Zhejiang,1268,1,1267
-4,Hong Kong,1055,4,1025
+4,Hong Kong,1065,4,1030
 5,Hunan,1019,4,1015
 6,Anhui,991,6,985
-7,Heilongjiang,945,13,932
+7,Heilongjiang,945,13,0
 8,Jiangxi,937,1,936
 9,Shandong,788,7,780
-10,Shanghai,666,7,641
+10,Shanghai,669,7,0
 11,Jiangsu,653,0,653
-12,Beijing,593,9,578
+12,Beijing,593,9,581
 13,Chongqing,579,6,573
-14,Sichuan,561,3,558
-15,Fujian,356,1,355
+14,Sichuan,564,3,558
+15,Fujian,357,1,355
 16,Hebei,328,6,322
-17,Shaanxi,308,3,303
+17,Shaanxi,308,3,305
 18,Guangxi,254,2,252
-19,Inner Mongolia,216,1,196
+19,Inner Mongolia,232,1,204
 20,Shanxi,198,0,198
-21,Tianjin,192,3,187
-22,Yunnan,185,2,183
+21,Tianjin,192,3,188
+22,Yunnan,185,2,0
 23,Hainan,169,6,162
-24,Jilin,151,2,123
-25,Liaoning,149,2,144
+24,Jilin,155,2,128
+25,Liaoning,149,2,147
 26,Guizhou,147,2,145
 27,Gansu,139,2,137
 28,Xinjiang,76,3,73
 29,Ningxia,75,0,75
-30,Macau,45,0,44
+30,Macau,45,0,45
 31,Qinghai,18,0,18
 32,Tibet,1,0,1
