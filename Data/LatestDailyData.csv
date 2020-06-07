@@ -1,266 +1,266 @@
 Country/Region,Province/State,Confirmed,Deaths,Recovered,Still Infected
-Afghanistan,NA,11173,219,1097,9857
-Albania,NA,1004,32,795,289
-Algeria,NA,8503,609,4784,3147
-Andorra,NA,763,51,663,504
-Angola,NA,70,4,18,48
-Antigua and Barbuda,NA,25,3,19,21
-Argentina,NA,12628,467,3999,8162
-Armenia,NA,7113,87,3145,3881
-Australia,Australian Capital Territory,107,3,104,76
-Australia,New South Wales,3092,48,2661,2868
+Afghanistan,NA,19551,327,1830,17394
+Albania,NA,1232,34,925,289
+Algeria,NA,10050,698,6631,3162
+Andorra,NA,852,51,741,504
+Angola,NA,88,4,24,64
+Antigua and Barbuda,NA,26,3,20,21
+Argentina,NA,22020,648,6180,15192
+Armenia,NA,12364,190,3720,8454
+Australia,Australian Capital Territory,108,3,104,76
+Australia,New South Wales,3110,48,2723,2868
 Australia,Northern Territory,29,0,29,26
-Australia,Queensland,1061,6,1041,895
-Australia,South Australia,439,4,435,361
-Australia,Tasmania,228,13,202,122
-Australia,Victoria,1610,19,1533,626
-Australia,Western Australia,564,9,549,358
-Austria,NA,16539,641,15138,9334
-Azerbaijan,NA,4271,51,2741,1479
-Bahamas,NA,100,11,46,55
-Bahrain,NA,9171,14,4753,4568
-Bangladesh,NA,35585,501,7334,27750
-Barbados,NA,92,7,71,56
-Belarus,NA,37144,204,14449,22491
-Belgium,NA,57342,9312,15297,32733
-Belize,NA,18,2,16,16
-Benin,NA,339,3,84,255
-Bhutan,NA,27,0,6,21
-Bolivia,NA,6660,261,647,5752
-Bosnia and Herzegovina,NA,2406,146,1696,1012
-Botswana,NA,35,1,19,22
-Brazil,NA,374898,23473,153833,197592
-Brunei,NA,141,1,137,109
-Bulgaria,NA,2433,130,862,1513
-Burkina Faso,NA,832,52,672,321
-Burma,NA,203,6,123,131
-Burundi,NA,42,1,20,21
-Cabo Verde,NA,390,3,155,264
-Cambodia,NA,124,0,122,88
-Cameroon,NA,4890,165,0,4725
-Canada,Alberta,6879,138,0,6741
-Canada,British Columbia,2530,161,0,2369
+Australia,Queensland,1061,7,1050,895
+Australia,South Australia,440,4,436,361
+Australia,Tasmania,228,13,209,122
+Australia,Victoria,1685,19,1593,626
+Australia,Western Australia,599,9,559,358
+Austria,NA,16898,672,15789,9334
+Azerbaijan,NA,7239,84,4024,3131
+Bahamas,NA,103,11,62,55
+Bahrain,NA,14383,24,9056,5547
+Bangladesh,NA,63026,846,13325,48855
+Barbados,NA,92,7,81,56
+Belarus,NA,47751,263,23015,24817
+Belgium,NA,59072,9580,16190,33302
+Belize,NA,19,2,16,16
+Benin,NA,339,3,151,255
+Bhutan,NA,48,0,11,38
+Bolivia,NA,13358,454,1902,11002
+Bosnia and Herzegovina,NA,2606,159,1968,1012
+Botswana,NA,40,1,23,22
+Brazil,NA,672846,35930,277149,359767
+Brunei,NA,141,2,138,109
+Bulgaria,NA,2711,160,1545,1513
+Burkina Faso,NA,888,53,765,321
+Burma,NA,240,6,156,131
+Burundi,NA,83,1,45,37
+Cabo Verde,NA,542,5,240,297
+Cambodia,NA,125,0,123,88
+Cameroon,NA,7599,212,0,7387
+Canada,Alberta,7138,146,0,6992
+Canada,British Columbia,2632,167,0,2466
 Canada,Diamond Princess,1,1,0,0
 Canada,Grand Princess,13,0,0,13
-Canada,Manitoba,292,7,0,285
-Canada,New Brunswick,121,0,0,121
+Canada,Manitoba,300,7,0,293
+Canada,New Brunswick,136,1,0,135
 Canada,Newfoundland and Labrador,261,3,0,258
 Canada,Northwest Territories,5,0,0,5
-Canada,Nova Scotia,1051,58,0,993
-Canada,Ontario,27302,2210,0,25092
+Canada,Nova Scotia,1058,61,0,998
+Canada,Ontario,31620,2483,0,29137
 Canada,Prince Edward Island,27,1,0,27
-Canada,Quebec,47993,4070,0,43923
-Canada,Saskatchewan,634,7,0,627
+Canada,Quebec,52624,4970,0,47654
+Canada,Saskatchewan,650,11,0,639
 Canada,Yukon,11,0,0,11
-Central African Republic,NA,652,1,22,629
-Chad,NA,687,61,244,400
-Chile,NA,73997,761,29302,43934
+Central African Republic,NA,1570,5,37,1528
+Chad,NA,836,69,672,400
+Chile,NA,127745,1541,103817,59099
 China,Anhui,991,6,985,758
-China,Beijing,593,9,581,294
+China,Beijing,594,9,583,294
 China,Chongqing,579,6,573,423
-China,Fujian,357,1,355,222
+China,Fujian,359,1,356,222
 China,Gansu,139,2,137,66
-China,Guangdong,1592,8,1581,991
+China,Guangdong,1602,8,1584,991
 China,Guangxi,254,2,252,189
 China,Guizhou,147,2,145,114
-China,Hainan,169,6,168,126
+China,Hainan,170,6,168,126
 China,Hebei,328,6,322,195
-China,Heilongjiang,945,13,0,932
+China,Heilongjiang,947,13,0,934
 China,Henan,1276,22,0,1254
-China,Hong Kong,1065,4,1030,715
+China,Hong Kong,1105,4,1048,715
 China,Hubei,68135,4512,64435,50633
 China,Hunan,1019,4,1015,670
-China,Inner Mongolia,232,1,204,106
+China,Inner Mongolia,235,1,213,106
 China,Jiangsu,653,0,653,436
 China,Jiangxi,937,1,936,712
-China,Jilin,155,2,128,66
+China,Jilin,155,2,151,66
 China,Liaoning,149,2,147,97
 China,Macau,45,0,45,35
 China,Ningxia,75,0,75,43
 China,Qinghai,18,0,18,15
-China,Shaanxi,308,3,305,187
-China,Shandong,788,7,780,464
-China,Shanghai,669,7,0,662
+China,Shaanxi,311,3,305,187
+China,Shandong,792,7,780,464
+China,Shanghai,677,7,0,670
 China,Shanxi,198,0,198,94
-China,Sichuan,564,3,558,350
-China,Tianjin,192,3,188,99
+China,Sichuan,578,3,558,350
+China,Tianjin,193,3,189,99
 China,Tibet,1,0,1,1
 China,Xinjiang,76,3,73,63
 China,Yunnan,185,2,0,183
 China,Zhejiang,1268,1,1267,883
-Colombia,NA,21981,750,5265,15966
-Comoros,NA,87,1,21,65
-Congo (Brazzaville),NA,487,16,147,324
-Congo (Kinshasa),NA,2297,67,337,1893
-Costa Rica,NA,951,10,628,564
-Cote d'Ivoire,NA,2423,30,1257,1172
-Croatia,NA,2244,100,2035,1258
-Cuba,NA,1947,82,1704,849
-Cyprus,NA,937,17,594,692
-Czechia,NA,9002,317,0,8685
+Colombia,NA,36759,1204,13670,21885
+Comoros,NA,141,2,67,103
+Congo (Brazzaville),NA,683,22,210,451
+Congo (Kinshasa),NA,3878,82,537,3259
+Costa Rica,NA,1263,10,701,564
+Cote d'Ivoire,NA,3557,36,1750,1791
+Croatia,NA,2247,104,2121,1258
+Cuba,NA,2173,83,1855,849
+Cyprus,NA,960,18,807,692
+Czechia,NA,9567,327,0,9240
 Denmark,Faroe Islands,187,0,187,118
-Denmark,Greenland,12,0,11,8
-Denmark,NA,11387,563,9964,3799
+Denmark,Greenland,13,0,13,8
+Denmark,NA,11924,587,10721,3799
 Diamond Princess,NA,712,13,651,691
-Djibouti,NA,2468,14,1079,1375
-Dominica,NA,16,0,16,14
-Dominican Republic,NA,15073,460,8285,7956
-Ecuador,NA,37355,3203,18003,30088
-Egypt,NA,17967,783,4900,12284
-El Salvador,NA,1983,35,772,1247
-Equatorial Guinea,NA,1043,12,165,871
+Djibouti,NA,4169,26,1815,2390
+Dominica,NA,18,0,16,14
+Dominican Republic,NA,19195,536,11919,7956
+Ecuador,NA,42728,3608,21020,30088
+Egypt,NA,32612,1198,8538,22876
+El Salvador,NA,2934,53,1281,1600
+Equatorial Guinea,NA,1306,12,200,1094
 Eritrea,NA,39,0,39,36
-Estonia,NA,1824,65,1538,1395
-Eswatini,NA,256,2,158,154
-Ethiopia,NA,655,5,159,491
-Fiji,NA,18,0,15,17
-Finland,NA,6599,308,5100,2865
-France,French Guiana,353,1,146,206
+Estonia,NA,1931,69,1675,1395
+Eswatini,NA,322,3,224,154
+Ethiopia,NA,1934,20,281,1633
+Fiji,NA,18,0,18,17
+Finland,NA,6964,322,5800,2865
+France,French Guiana,639,1,348,309
 France,French Polynesia,60,0,60,55
-France,Guadeloupe,161,14,115,103
-France,Martinique,197,14,91,115
-France,Mayotte,1609,20,894,725
-France,NA,180166,28407,63542,97979
-France,New Caledonia,18,0,18,17
-France,Reunion,456,1,411,351
+France,Guadeloupe,164,14,144,103
+France,Martinique,202,14,98,115
+France,Mayotte,2079,25,1523,725
+France,NA,188836,29087,68282,97979
+France,New Caledonia,20,0,18,17
+France,Reunion,480,1,411,351
 France,Saint Barthelemy,6,0,6,5
 France,Saint Pierre and Miquelon,1,0,1,1
-France,St Martin,40,3,33,23
-Gabon,NA,2135,14,562,1559
-Gambia,NA,25,1,17,12
-Georgia,NA,731,12,526,367
-Germany,NA,180600,8309,161199,72864
-Ghana,NA,6808,32,2070,4870
-Greece,NA,2882,172,1374,1860
+France,St Martin,41,3,33,23
+Gabon,NA,3101,21,833,2247
+Gambia,NA,26,1,21,12
+Georgia,NA,808,13,663,367
+Germany,NA,185450,8673,168958,72864
+Ghana,NA,9462,44,3547,5871
+Greece,NA,2980,180,1374,1860
 Grenada,NA,23,0,0,23
-Guatemala,NA,3760,59,274,3427
-Guinea,NA,3275,20,1673,1582
-Guinea-Bissau,NA,1178,7,42,1129
-Guyana,NA,137,11,62,70
-Haiti,NA,958,27,29,909
-Holy See,NA,12,0,2,10
-Honduras,NA,4189,182,473,3534
-Hungary,NA,3756,491,1711,2054
-Iceland,NA,1804,10,1791,1096
-India,NA,144950,4172,60706,80072
-Indonesia,NA,22750,1391,5642,15717
-Iran,NA,137724,7451,107713,34887
-Iraq,NA,4632,163,2811,1658
-Ireland,NA,24698,1608,21060,14888
-Israel,NA,16734,281,14307,9808
-Italy,NA,230158,32877,141981,108257
-Jamaica,NA,556,9,238,424
-Japan,NA,16581,830,13612,11869
-Jordan,NA,711,9,479,249
-Kazakhstan,NA,8969,35,4515,4419
-Kenya,NA,1286,52,402,832
-Kosovo,NA,1038,30,791,576
-Kuwait,NA,21967,165,6621,15181
-Kyrgyzstan,NA,1433,16,992,425
+Guatemala,NA,6792,230,1133,5429
+Guinea,NA,4117,23,2857,1686
+Guinea-Bissau,NA,1368,12,153,1278
+Guyana,NA,154,12,80,73
+Haiti,NA,3072,50,29,2998
+Holy See,NA,12,0,12,10
+Honduras,NA,6155,250,697,5208
+Hungary,NA,3990,545,2279,2054
+Iceland,NA,1806,10,1794,1096
+India,NA,246622,6946,118695,120981
+Indonesia,NA,30514,1801,9907,18806
+Iran,NA,169425,8209,132038,34887
+Iraq,NA,11098,318,4904,5876
+Ireland,NA,25183,1678,22698,14888
+Israel,NA,17752,295,15042,9808
+Italy,NA,234801,33846,165078,108257
+Jamaica,NA,596,10,404,424
+Japan,NA,17000,916,14927,11869
+Jordan,NA,795,9,586,249
+Kazakhstan,NA,12511,53,7135,5779
+Kenya,NA,2600,83,706,1811
+Kosovo,NA,1142,30,871,576
+Kuwait,NA,31131,254,19282,15831
+Kyrgyzstan,NA,1974,22,1360,620
 Laos,NA,19,0,0,19
-Latvia,NA,1049,22,712,646
-Lebanon,NA,1119,26,688,684
-Lesotho,NA,2,0,0,2
-Liberia,NA,265,26,141,106
-Libya,NA,75,3,40,43
+Latvia,NA,1086,25,781,646
+Lebanon,NA,1320,29,768,684
+Lesotho,NA,4,0,2,2
+Liberia,NA,345,30,185,130
+Libya,NA,256,5,52,199
 Liechtenstein,NA,82,1,55,76
-Lithuania,NA,1635,63,1138,1047
-Luxembourg,NA,3993,110,3781,2870
+Lithuania,NA,1705,71,1321,1047
+Luxembourg,NA,4035,110,3888,2870
 MS Zaandam,NA,9,2,0,7
-Madagascar,NA,542,2,147,393
-Malawi,NA,101,4,33,64
-Malaysia,NA,7417,115,5979,2596
-Maldives,NA,1395,4,155,1236
-Mali,NA,1059,67,604,388
-Malta,NA,611,6,485,352
-Mauritania,NA,262,9,15,238
-Mauritius,NA,334,10,322,286
-Mexico,NA,71105,7633,49452,14253
-Moldova,NA,7147,261,3802,3611
-Monaco,NA,98,4,90,86
-Mongolia,NA,141,0,33,116
+Madagascar,NA,1026,8,212,806
+Malawi,NA,409,4,55,350
+Malaysia,NA,8303,117,6635,2596
+Maldives,NA,1901,8,763,1389
+Mali,NA,1523,90,845,588
+Malta,NA,627,9,596,352
+Mauritania,NA,947,49,104,794
+Mauritius,NA,337,10,324,286
+Mexico,NA,113619,13511,80830,19278
+Moldova,NA,9511,331,5450,3730
+Monaco,NA,99,4,93,86
+Mongolia,NA,193,0,75,141
 Montenegro,NA,324,9,315,266
-Morocco,NA,7532,200,4774,3321
-Mozambique,NA,209,1,0,208
-Namibia,NA,21,0,14,13
-Nepal,NA,682,4,112,566
-Netherlands,Aruba,101,3,95,69
-Netherlands,Curacao,18,1,14,8
-Netherlands,NA,45445,5830,250,39615
-Netherlands,Sint Maarten,77,15,59,45
-New Zealand,NA,1504,21,1461,929
-Nicaragua,NA,279,17,199,63
-Niger,NA,951,62,786,511
-Nigeria,NA,8068,233,2311,5524
-North Macedonia,NA,1999,113,1439,977
-Norway,NA,8364,235,7727,8042
-Oman,NA,7770,37,1933,5800
-Pakistan,NA,56349,1167,17482,37700
-Panama,NA,11183,310,6279,6953
+Morocco,NA,8151,208,7315,3321
+Mozambique,NA,409,2,0,407
+Namibia,NA,29,0,16,13
+Nepal,NA,3235,13,365,2857
+Netherlands,Aruba,101,3,98,69
+Netherlands,Curacao,21,1,15,8
+Netherlands,NA,47335,6011,0,41324
+Netherlands,Sint Maarten,77,15,61,45
+New Zealand,NA,1504,22,1481,929
+Nicaragua,NA,1118,46,370,702
+Niger,NA,970,65,867,511
+Nigeria,NA,12233,342,3826,8065
+North Macedonia,NA,2915,151,1640,1124
+Norway,NA,8531,238,8138,8042
+Oman,NA,16016,72,3451,12493
+Pakistan,NA,93983,1935,32581,59467
+Panama,NA,16004,386,10118,6953
 Papua New Guinea,NA,8,0,8,8
-Paraguay,NA,865,11,344,588
-Peru,NA,123979,3629,50949,69401
-Philippines,NA,14319,873,3323,10123
-Poland,NA,21631,1007,9276,11348
-Portugal,NA,30788,1330,17822,24065
-Qatar,NA,45465,26,10363,35076
-Romania,NA,18283,1205,11630,7716
-Russia,NA,353427,3633,118798,230996
-Rwanda,NA,336,0,238,144
+Paraguay,NA,1090,11,532,588
+Peru,NA,191758,5301,82731,103726
+Philippines,NA,21340,994,4441,15905
+Poland,NA,25986,1153,12641,12192
+Portugal,NA,34351,1474,20807,24065
+Qatar,NA,67195,51,42527,35634
+Romania,NA,20290,1322,14419,7716
+Russia,NA,458102,5717,220935,233965
+Rwanda,NA,431,2,283,146
 Saint Kitts and Nevis,NA,15,0,15,15
-Saint Lucia,NA,18,0,18,14
-Saint Vincent and the Grenadines,NA,18,0,14,11
-San Marino,NA,666,42,270,475
-Sao Tome and Principe,NA,299,11,4,284
-Saudi Arabia,NA,74795,399,45668,28728
-Senegal,NA,3130,35,1515,1580
-Serbia,NA,11193,239,5920,7786
+Saint Lucia,NA,19,0,18,14
+Saint Vincent and the Grenadines,NA,26,0,15,12
+San Marino,NA,680,42,428,475
+Sao Tome and Principe,NA,499,12,68,419
+Saudi Arabia,NA,98869,676,71791,28728
+Senegal,NA,4249,47,2512,1839
+Serbia,NA,11741,248,11056,7786
 Seychelles,NA,11,0,11,11
-Sierra Leone,NA,735,42,293,426
-Singapore,NA,31960,23,15738,20799
-Slovakia,NA,1511,28,1307,1022
-Slovenia,NA,1469,107,1346,1109
-Somalia,NA,1689,66,235,1388
-South Africa,NA,23615,481,11917,11217
-South Korea,NA,11225,269,10275,7577
-South Sudan,NA,806,8,0,798
-Spain,NA,235772,28752,150376,101617
-Sri Lanka,NA,1182,10,695,586
-Sudan,NA,3976,170,503,3303
-Suriname,NA,11,1,9,10
-Sweden,NA,33843,4029,4971,24843
-Switzerland,NA,30746,1913,28200,14349
-Syria,NA,106,4,0,102
-Taiwan*,NA,441,7,415,314
-Tajikistan,NA,3100,46,0,3054
+Sierra Leone,NA,946,48,600,440
+Singapore,NA,37527,25,24559,20799
+Slovakia,NA,1528,28,1379,1022
+Slovenia,NA,1484,109,1359,1109
+Somalia,NA,2289,82,431,1776
+South Africa,NA,45973,952,24258,20763
+South Korea,NA,11776,273,10552,7577
+South Sudan,NA,994,10,0,984
+Spain,NA,241310,28752,150376,101617
+Sri Lanka,NA,1814,11,891,947
+Sudan,NA,6081,359,2014,3708
+Suriname,NA,100,1,9,90
+Sweden,NA,43887,4656,0,39231
+Switzerland,NA,30956,1921,28700,14349
+Syria,NA,125,6,0,119
+Taiwan*,NA,443,7,429,314
+Tajikistan,NA,4453,48,0,4405
 Tanzania,NA,509,21,183,305
-Thailand,NA,3042,57,2928,1451
+Thailand,NA,3104,58,2971,1451
 Timor-Leste,NA,24,0,0,24
-Togo,NA,386,13,161,230
-Trinidad and Tobago,NA,116,8,108,100
-Tunisia,NA,1051,48,919,798
-Turkey,NA,157814,4369,120015,80808
-US,NA,1662302,98220,379157,1184925
-Uganda,NA,264,0,69,199
-Ukraine,NA,21245,623,7234,13388
-United Arab Emirates,NA,30307,248,15657,14626
+Togo,NA,487,13,240,234
+Trinidad and Tobago,NA,117,8,108,100
+Tunisia,NA,1087,49,977,798
+Turkey,NA,169218,4669,135322,80808
+US,NA,1920061,109802,500849,1309410
+Uganda,NA,593,0,82,511
+Ukraine,NA,27101,785,12265,14051
+United Arab Emirates,NA,38268,275,21061,17173
 United Kingdom,Anguilla,3,0,3,3
-United Kingdom,Bermuda,133,9,89,65
-United Kingdom,British Virgin Islands,8,1,6,3
-United Kingdom,Cayman Islands,134,1,61,72
-United Kingdom,Channel Islands,559,45,517,394
+United Kingdom,Bermuda,141,9,114,65
+United Kingdom,British Virgin Islands,8,1,7,3
+United Kingdom,Cayman Islands,164,1,93,77
+United Kingdom,Channel Islands,563,46,528,394
 United Kingdom,Falkland Islands (Malvinas),13,0,13,10
-United Kingdom,Gibraltar,154,0,147,63
-United Kingdom,Isle of Man,336,24,305,126
+United Kingdom,Gibraltar,175,0,155,63
+United Kingdom,Isle of Man,336,24,312,126
 United Kingdom,Montserrat,11,1,10,10
-United Kingdom,NA,261184,36914,344,224270
-United Kingdom,Turks and Caicos Islands,12,1,10,10
-Uruguay,NA,787,22,629,319
-Uzbekistan,NA,3189,13,2607,1361
-Venezuela,NA,1177,16,302,865
-Vietnam,NA,326,0,272,163
-West Bank and Gaza,NA,423,3,357,275
-Western Sahara,NA,9,0,6,6
-Yemen,NA,233,44,0,189
-Zambia,NA,920,7,336,628
-Zimbabwe,NA,56,4,25,34
+United Kingdom,NA,284868,40465,344,244403
+United Kingdom,Turks and Caicos Islands,12,1,11,10
+Uruguay,NA,845,23,726,319
+Uzbekistan,NA,4094,17,3268,1361
+Venezuela,NA,2316,22,385,1909
+Vietnam,NA,329,0,307,163
+West Bank and Gaza,NA,464,3,400,275
+Western Sahara,NA,9,1,6,6
+Yemen,NA,482,111,0,371
+Zambia,NA,1089,7,912,628
+Zimbabwe,NA,279,4,33,242
